@@ -9,7 +9,6 @@ public class Car {
   private final Integer year;
   private final Double price;
 
-
   public Car(Integer id, String make, String model, String color, Integer year,
       Double price) {
     this.id = id;
